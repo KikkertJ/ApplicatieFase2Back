@@ -1,4 +1,4 @@
-package com.example.workingspirit;
+package nl.workingspirit.bootcamp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
