@@ -1,4 +1,4 @@
-package com.example.workingspirit.domein;
+package nl.workingspirit.bootcamp.domein;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
